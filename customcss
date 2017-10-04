@@ -1,0 +1,68 @@
+#et-top-navigation {
+    font-weight: 600;
+    font-family: futuramedium, montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+	font-size: 8px;
+}
+
+p {
+    font-size: 16px;
+    font-family: futuramedium;
+    color: #2d2d2d;
+}
+
+.et_pb_contact_main_title {
+    position: relative;
+    padding-bottom: 16px;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: autumnchant;
+}
+
+.et_pb_contact p input, .et_pb_contact p textarea {
+    width: 100%;
+    padding: 16px;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    color: #999;
+    background-color: #eee;
+    font-size: 14px;
+    font-family: futura;
+    text-transform: uppercase;
+}
+
+body #page-container .et_pb_contact_form_0.et_pb_contact_form_container .et_pb_button {
+    color: #ffffff!important;
+    background: #2d2d2d;
+    border-radius: 0px;
+    font-size: 12px;
+    padding-left: 0.7em;
+    padding-right: 2em;
+    background-color: #2d2d2d;
+    font-family: futura;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.et_pb_gallery_0.et_pb_gallery .et_pb_gallery_title {
+    font-size: 12px;
+    font-family: futura;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 16px;
+}
+
+body #page-container .et_pb_button_0 {
+    color: #ffffff!important;
+    border-width: 8px!important;
+    border-color: #2d2d2d;
+    border-radius: 0px;
+    font-size: 13px;
+    background-color: #2d2d2d;
+    font-family: futura, helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
